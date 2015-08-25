@@ -14,7 +14,7 @@ for Require.js
         }
     });
 
-    require(["eventbus"], function (EventBase) {
+    require(["eventbus"], function (EventBus) {
       //do something
     });
 
