@@ -1,0 +1,23 @@
+{
+  "name": "ovaldi-event-bus",
+  "version": "0.0.3",
+  "description": "event bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ovaldi/EventBus.git"
+  },
+  "keywords": [
+    "event",
+    "bus"
+  ],
+  "author": "ovaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ovaldi/EventBus/issues"
+  },
+  "homepage": "https://github.com/Ovaldi/EventBus#readme"
+}

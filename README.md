@@ -2,6 +2,10 @@
 
 ### Installation
 
+for Node
+
+    npm install ovaldi-event-bus
+
 for Bower
 
     bower install event-bus
