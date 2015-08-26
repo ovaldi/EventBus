@@ -66,5 +66,9 @@
         }
     };
 
+    EventBus.prototype.destroy = function(){
+        this._events = null;
+    };
+
     return EventBus;
 }, this);
